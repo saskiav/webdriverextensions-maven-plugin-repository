@@ -4,8 +4,8 @@
             "name": "chromedriver",
             "platform": "windows",
             "bit": "32",
-            "version": "96.0.4664.45",
-            "url": "https://chromedriver.storage.googleapis.com/96.0.4664.45/chromedriver_win32.zip"
+            "version": "98.0.4758.102",
+            "url": "https://chromedriver.storage.googleapis.com/98.0.4758.102/chromedriver_win32.zip"
         },
         {
             "name": "chromedriver",
